@@ -77,6 +77,7 @@ public class HelloTree {
      * <p>
      * a binary tree in which the depth of the two subtrees of every node never
      * differ by more than 1.
+     * <a href = "https://leetcode.com/problems/balanced-binary-tree/description/"></a>
      */
     // Method 1 of Question 2: [I am using the maxDepth method above]
     public boolean isBalanced(TreeNode root) {
