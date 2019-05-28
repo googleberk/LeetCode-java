@@ -1,3 +1,10 @@
+// ---------
+// Licensing Information:  You are free to use or extend these projects for
+// educational purposes provided that (1) you do not distribute or publish
+// solutions without the permission from the author, (2) you retain this notice,
+// and (3) you provide clear attribution to UC Berkeley, and me. // email Shuowei Li
+// (appleearth007@gmail.com) for more information.
+
 package Two_Sum;
 
 // see the description here: https://leetcode.com/problems/two-sum/description/
